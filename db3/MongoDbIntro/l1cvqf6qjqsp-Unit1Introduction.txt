@@ -1,0 +1,16 @@
+[MUSIC PLAYING] Welcome, team. In this unit, you'll learn about MongoDB Atlas. 
+We'll learn some of its unique and useful features, and how it hosts and stores your data. 
+Then, we'll get started with your very own instance of the Atlas free tier. 
+My name is Cam, and I'm a technical instructor here at MongoDB, and I'll be guiding you through this unit. 
+
+Why learn about MongoDB Atlas? Atlas offers a suite of features, tools, 
+and services that make it easier for developers to visualize data and build applications. 
+With an Atlas account, all the heavy lifting of creating and managing your MongoDB database is handled automatically. 
+
+This includes Native MongoDB features, like high availability and scalability, 
+as well as analytics nodes, data visualizations, maintenance, and automatic upgrades with zero downtime. 
+In this unit, you'll learn some of the most useful MongoDB Atlas features and services. 
+
+We'll also cover Atlas clusters, and how they store your data. 
+You'll create a free Atlas account, deploy a free tier Atlas cluster, 
+and use the Atlas Data Explorer to load and view sample data. Let's get started. 

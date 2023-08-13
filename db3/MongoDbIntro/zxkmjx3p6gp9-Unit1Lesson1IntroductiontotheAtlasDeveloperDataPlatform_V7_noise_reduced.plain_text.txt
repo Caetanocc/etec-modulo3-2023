@@ -1,0 +1,67 @@
+Welcome back, team. In this video, we'll introduce you to MongoDB Atlas, 
+our developer data platform, and how it makes working with data easy for a wide variety of applications. 
+We'll also cover the components of the platform that address common requirements of modern applications. 
+This means there's less need to introduce additional technologies that may complicate your development process. 
+
+Let's begin by reviewing how your data is stored in MongoDB Atlas. 
+Atlas is our comprehensive developer data platform. At its core is Atlas database, our database as a service. 
+This means that when you're using Atlas, you don't need to manage MongoDB yourself. 
+Instead, Atlas will manage the database for you and handle all of the lifecycle details behind the scenes. 
+
+When using Atlas, your database deployments have built-in replication, what MongoDB refers to as a replica set. 
+This means that your data is stored on more than one server, which is a core tenet of MongoDB. 
+This ensures both data redundancy and that your data will be available in the event of a server failure. 
+
+In Atlas, there are two types of database deployments, serverless instances and clusters. 
+A serverless instance scales on demand and only charges you for the resources that you use. 
+Serverless instances are great option for applications with highly variable or sparse workloads over time. 
+This is a much simpler choice, if you don't know what hardware you need, 
+or if you just want to use a serverless architecture in general. 
+
+A cluster is several MongoDB servers working together. 
+There are two cluster options, shared and dedicated. 
+Shared clusters are smaller and include a free tier option, which is a great way to get started with Atlas. 
+It has over 100,000 new deployments per month. So rest assured that, if you choose this option, 
+you can run your small projects on it indefinitely. 
+
+Finally, dedicated clusters are larger dedicated resources and can be customized to your specific needs. 
+There are options for both low and high traffic applications that have cluster autoscaling, 
+enabled by default, as well as enhanced security features. This is the preferred choice for production workloads. 
+
+When deploying your cluster on Atlas, you can choose from a number of cloud providers, 
+including AWS, Google, Cloud and Microsoft Azure, in over 100 geographic regions. 
+You can deploy globally across multiple regions or even multiple clouds. 
+As your needs change, so can your cluster. You always have the option to change your scaling tier, 
+region, or cloud provider. Atlas will make these changes for you without any downtime. 
+
+Atlas includes operational insights and back-ups with point-in-time restore. 
+It also has capabilities useful for later stages of the lifecycle, like built-in data sharing with Online Archive. 
+You can learn more about Online Archive in one of our advanced courses, when you're ready. 
+
+You can also manage everything from the command line using the Atlas CLI or the administration API. 
+MongoDB Atlas is more than just a database as a service. 
+It's a comprehensive developer data platform. 
+It provides an integrated suite of products and services that developers can use to build applications faster than ever before. 
+
+Let's quickly discuss some of the other services available in Atlas. 
+Atlas Search enables you to build rich search experiences on top of your data in the cloud. 
+There's no need for a separate search engine. 
+You can actually access everything from MongoDB's aggregation query interface simply by using the search operator. 
+
+Atlas device sync allows you to keep data in sync between the cloud and mobile or other Edge devices. 
+This means that you can deliver rich, always-on experiences anywhere. 
+Atlas data lake lets you automatically extract data from your Atlas databases to your own low-cost, 
+fully-managed data lake environment. Our data lake uses a format that's optimized for analytical queries. 
+
+Atlas Data Federation allows you to seamlessly query, transform, aggregate, and write data from Atlas databases, 
+Atlas data lakes, or your own cloud object storage environments. 
+Atlas Charts is a built-in data visualization tool. 
+It allows you to easily create, share, and embed rich dashboards built from your own data in the cloud. 
+
+Finally, Atlas App Services offers a set of capabilities that allow you to build faster. 
+It includes a data API, which enables you to read and write data in Atlas with standard HTTPS requests. 
+It also includes a GraphQL API, functions, and triggers to enable you to easily create applications 
+with event-driven architectures. Our engineers work hard to build MongoDB Atlas, 
+our developer data platform, with MongoDB's mission in mind, to empower innovators to create, 
+transform, and disrupt industries by unleashing the power of software and data. 
+We look forward to seeing what you build with our developer data platform. 
